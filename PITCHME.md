@@ -40,7 +40,7 @@ Note:le backpack vérifie l'authenticité du badge
 
 +++
 
-[Un canevas pour en rien oublier](https://docs.google.com/document/d/1f0XgXcm8iFijAa5N1BMLGlQ6VRCjutEeJK5CxRFRQXk/edit)   
+[Un canevas pour ne rien oublier](https://docs.google.com/document/d/1f0XgXcm8iFijAa5N1BMLGlQ6VRCjutEeJK5CxRFRQXk/edit)   
 (source : badgeons la Normandie)
 
 ---
