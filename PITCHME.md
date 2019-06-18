@@ -54,6 +54,7 @@ Note:le backpack vérifie l'authenticité du badge
 # Pour aller plus loin
 
 ---
+
 ### Quelle valeur ont-ils ?
 - Celle qu'on leur donne !
 - Réseau de confiance
@@ -67,6 +68,7 @@ Note:le backpack vérifie l'authenticité du badge
 - Preuves
 - Place dans la collection
 
+---
 
 ### Un écosystème d'open badge permet 
 ![Ce que les Open Badges apportent à l'individu](http://www.lamerguez.com/presentations_GitPich/presentation-open_badge/Ecosysteme_OpenBadge_1-individu.png  "Ce que les Open Badges apportent à l'individu")
