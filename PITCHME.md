@@ -61,6 +61,7 @@ Note:le backpack vérifie l'authenticité du badge
 
 +++
 
+### Valeur donnée en fonction de 
 - Émetteur
 - Validateur
 - Endosseur
