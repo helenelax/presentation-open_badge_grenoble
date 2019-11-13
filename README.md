@@ -1,5 +1,5 @@
 # Présentation sur les Open Badge
-Réalisée le 18 juin 2019 - Séminaire Réseau Pratiques sportives
+Présentation complète destinée à être déclinée au cas par cas suivant les contextes.
 
 https://gitpitch.com/helenelax/presentation-open_badge/master
 
